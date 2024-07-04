@@ -1,4 +1,28 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/629caf54-bce5-4064-88fc-039a1b1f496d/d8heeal-bad600ab-3900-4d54-83ef-d4b4dd3d6681.jpg/v1/fill/w_744,h_544,q_75,strp/one_piece__yaoi_by_milk1880_d8heeal-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQ0IiwicGF0aCI6IlwvZlwvNjI5Y2FmNTQtYmNlNS00MDY0LTg4ZmMtMDM5YTFiMWY0OTZkXC9kOGhlZWFsLWJhZDYwMGFiLTM5MDAtNGQ1NC04M2VmLWQ0YjRkZDNkNjY4MS5qcGciLCJ3aWR0aCI6Ijw9NzQ0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.obMgN0IjkATtBLffxPBSRv-Ow0sfhVkXFGLHIljJD9I");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h1 {
-  color: red;
-  background-color: rgb(56, 0, 0);
+  font-size: 62px;
+  background: rgba(227, 120, 216, 0.351);
+}
+
+.main__container {
+  padding: 32px;
+  text-align: center;
+  color: rgb(118, 2, 104);
 }
